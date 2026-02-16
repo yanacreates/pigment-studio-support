@@ -1,4 +1,4 @@
-# PigmentLab · Color Mixing Support
+# Pigment Studio
 
 ## Contact
 For questions or support, email: yana.a.valieva@gmail.com
