@@ -11,7 +11,7 @@ Pigment Studio was built with privacy in mind. The App works almost entirely on 
 
 ## 1. What the App Does Not Collect
 
-Pigment Studio does **not** collect personal information such as names, email addresses, location data, device identifiers, or biometric data.
+Pigment Studio does **not** directly collect personal information such as names, email addresses, location data, device identifiers, or biometric data.
 
 ---
 
@@ -35,7 +35,7 @@ Pigment Studio offers an optional Pro subscription. The only third-party service
 
 **RevenueCat** — I use RevenueCat to manage subscription status and validate purchase receipts. RevenueCat receives your purchase history and an anonymous identifier generated automatically by its SDK. I do not intentionally provide personal identifiers such as names or email addresses to RevenueCat. See [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/) for details on how they handle data.
 
-Apple and RevenueCat may process data on servers located outside the European Union. Please refer to their Privacy Policies above for details.
+Apple and RevenueCat may process data on servers located outside the European Union. Please refer to their respective Privacy Policies above for details.
 
 ---
 
@@ -63,7 +63,7 @@ Pigment Studio does **not sell or share your personal information** with third p
 
 ## 7. Children's Privacy
 
-Pigment Studio does not knowingly collect personal information from children under 13. For data held by Apple or RevenueCat in connection with the subscription, please refer to the respective privacy policies.
+The App is not directed to children under 13 and does not knowingly collect personal information from children under 13. For data held by Apple or RevenueCat in connection with the subscription, please refer to the respective privacy policies.
 
 ---
 
